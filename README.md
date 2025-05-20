@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Thakhani072
-- 👀 I’m interested in exploring and learning new things
-- 🌱 I’m currently learning indigenous knowledge system at Northwest University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you can contact me on 0721607735 or email me to thakhanimulokwe@gmail.com
+ Hi, I'm Thakhani Hector Mulokwe
 
-<!---
-Thakhani072/Thakhani072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a beginner Front-End Developer passionate about building responsive and user-friendly websites. I'm currently learning and exploring modern front-end technologies and sharing my progress through projects on GitHub.
+
+ Currently Learning
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design and Flexbox/Grid
+- Git & GitHub
+- React (Just getting started!)
+
+🛠️ Tech Stack
+- Languages: HTML, CSS, JavaScript
+- Tools: VS Code, Git, GitHub, Chrome DevTools
+  
+
+ 📫 Let's Connect
+Feel free to reach out:
+- Email: thakhanimulokwe@gmail.com
+- Phone: +27 721607735
+  
+
+Thanks for visiting my profile! 🚀
+
+
